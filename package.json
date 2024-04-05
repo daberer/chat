@@ -1,0 +1,25 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daberer/chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daberer/chat/issues"
+  },
+  "homepage": "https://github.com/daberer/chat#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.32.2"
+  }
+}
